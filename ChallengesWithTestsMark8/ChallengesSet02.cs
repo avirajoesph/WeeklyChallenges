@@ -8,7 +8,7 @@ namespace ChallengesWithTestsMark8
         public bool CharacterIsALetter(char c)
         {
             throw new NotImplementedException();
-        }
+        }rgrsg
 
         public bool CountOfElementsIsEven(string[] vals)
         {
